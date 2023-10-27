@@ -21,7 +21,7 @@ public class ValidRegister {
     @Step("I send a request to register with valid credentials")
     public void sendPostHttpRequest(){
         JSONObject requestBody = new JSONObject();
-        requestBody.put("email", "yuki@mail.com");
+        requestBody.put("email", "cio@mail.com");
         requestBody.put("password", "123123");
         requestBody.put("fullname", "Firstname Lastname");
 
@@ -41,7 +41,7 @@ public class ValidRegister {
                 "    \"data\": {\n" +
                 "        \"ID\": 27785,\n" +
                 "        \"Fullname\": \"Firstname Lastname\",\n" +
-                "        \"Email\": \"yuki@mail.com\",\n" +
+                "        \"Email\": \"cio@mail.com\",\n" +
                 "        \"Password\": \"123123\"\n" +
                 "    }\n" +
                 "}";
