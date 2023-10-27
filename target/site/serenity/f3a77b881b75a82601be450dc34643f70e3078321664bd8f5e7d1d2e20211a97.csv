@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","Send request to login with empty credentials","SUCCESS","2023-10-27T11:10:13.3458978+07:00[Asia/Jakarta]","0.0","3.71"
+"Authentication","Send request to login with wrong password","SUCCESS","2023-10-27T11:10:17.0788585+07:00[Asia/Jakarta]","0.0","0.17"
+"Authentication","Send request to register with valid credentials","SUCCESS","2023-10-27T11:10:17.2738277+07:00[Asia/Jakarta]","0.0","0.34"
+"Authentication","Send request to register with empty credentials","SUCCESS","2023-10-27T11:10:17.639011+07:00[Asia/Jakarta]","0.0","0.23"
+"Authentication","Send request to register with used email","SUCCESS","2023-10-27T11:10:17.8912961+07:00[Asia/Jakarta]","0.0","0.22"
+"Authentication","Get user information","SUCCESS","2023-10-27T11:10:18.1234859+07:00[Asia/Jakarta]","0.0","0.33"

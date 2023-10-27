@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Orders" skipped="0" tests="4" time="3.65" timestamp="2023-10-27 11:10:13"><testcase name="Send GET request to get all orders"/><testcase name="Send GET request to get orders by invalid ID"/><testcase name="Add a new orders"/><testcase name="Add a new orders with empty fields"/></testsuite>

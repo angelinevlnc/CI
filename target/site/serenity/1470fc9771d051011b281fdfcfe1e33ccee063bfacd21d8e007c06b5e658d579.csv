@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders","Send GET request to get all orders","SUCCESS","2023-10-27T11:10:13.4381893+07:00[Asia/Jakarta]","0.0","3.17"
+"Orders","Send GET request to get orders by invalid ID","SUCCESS","2023-10-27T11:10:16.6481298+07:00[Asia/Jakarta]","0.0","0.16"
+"Orders","Add a new orders","SUCCESS","2023-10-27T11:10:16.8214342+07:00[Asia/Jakarta]","0.0","0.17"
+"Orders","Add a new orders with empty fields","SUCCESS","2023-10-27T11:10:17.0092262+07:00[Asia/Jakarta]","0.0","0.15"

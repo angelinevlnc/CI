@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories","Send GET request to get all category","SUCCESS","2023-10-27T11:10:13.4461915+07:00[Asia/Jakarta]","0.0","3.61"
+"Categories","Send GET request to get category by ID","SUCCESS","2023-10-27T11:10:17.0698427+07:00[Asia/Jakarta]","0.0","0.17"
+"Categories","Send GET request to get category by invalid ID","SUCCESS","2023-10-27T11:10:17.2613604+07:00[Asia/Jakarta]","0.0","0.35"
+"Categories","Delete Category","SUCCESS","2023-10-27T11:10:17.6300246+07:00[Asia/Jakarta]","0.0","0.24"
+"Categories","Add a new category","SUCCESS","2023-10-27T11:10:17.8833086+07:00[Asia/Jakarta]","0.0","0.23"
+"Categories","Add a new category with empty fields","SUCCESS","2023-10-27T11:10:18.1304875+07:00[Asia/Jakarta]","0.0","0.32"
